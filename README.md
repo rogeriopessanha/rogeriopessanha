@@ -1,7 +1,9 @@
 ### Olá, eu sou o Rogerio Pessanha 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&theme=tokyonight&layout=compact">
-
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=tokyonight"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&theme=tokyonight&layout=compact">
+</div>
 
 ## Tecnologias que estou usando: 
 
