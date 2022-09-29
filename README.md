@@ -1,9 +1,9 @@
 ### Olá, eu sou o Rogerio Pessanha 👋
 
-![Pessanha GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=tokyonight"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&theme=tokyonight&layout=compact">
 
 
-## Tecnologias: 
+## Tecnologias que estou usando: 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,4 +15,6 @@
 ## Links para meus projetos:
 
 👉 [Site responsivo para uma farmácia usando HTML - CSS - JavaScript](https://rogeriopessanha.github.io/projeto-farmacia/) <br/>
+
+
 
