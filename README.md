@@ -16,13 +16,3 @@
 
 👉 [Site responsivo para uma farmácia usando HTML - CSS - JavaScript](https://rogeriopessanha.github.io/projeto-farmacia/) <br/>
 
-
-
-
-<div> 
-    Site responsivo para uma farmácia usando HTML - CSS - JavaScript 👉
-  <a href="https://rogeriopessanha.github.io/projeto-farmacia/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  
-
- 
-</div>
