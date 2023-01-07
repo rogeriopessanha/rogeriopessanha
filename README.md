@@ -1,8 +1,15 @@
-### Olá, eu sou o Rogerio Pessanha 👋
+
+ <h1 align="center">Hey 👋, Bem vindo(a) ao meu repositório</h1> <br/>
+
+- 🌱 Aprendendo **ReactJS**
+
+- 👨‍💻 Portfólio: [https://rogeriopessanha.github.io/portifolio/](https://rogeriopessanha.github.io/portifolio/)
+- 🔗 Linkedin: [https://www.linkedin.com/in/rogerio-pessanha/](https://www.linkedin.com/in/rogerio-pessanha/)
 
 <div>
   <a href="https://github.com/rogeriopessanha">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
@@ -17,12 +24,13 @@
   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 ---
-[![](https://visitcount.itsvg.in/api?id=rogeriopessanha&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rogeriopessanha&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopessanha" /> </p>
   
 <!--   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"> -->    
 <!--   <img align="center" height="50" width="50" alt=""  src=""> -->
                                               
 </div><br/>
+
 
 
 
