@@ -16,10 +16,14 @@
   <img align="center" height="50" width="50" alt="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
+---
+[![](https://visitcount.itsvg.in/api?id=rogeriopessanha&icon=5&color=0)](https://visitcount.itsvg.in)
+  
 <!--   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"> -->    
 <!--   <img align="center" height="50" width="50" alt=""  src=""> -->
                                               
 </div><br/>
+
 
 
 
