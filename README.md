@@ -1,6 +1,6 @@
 
  <h1 align="center">Hey 👋, Bem-vindo(a) ao meu repositório</h1> <br/>
- <h2 align="center">Sou um desenvolvedor Front-end</h2>
+ <h2 align="center">Desenvolvedor Front-end</h2>
 
 - 🌱 Aprendendo **ReactJS**
 
