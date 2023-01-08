@@ -25,7 +25,7 @@
   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rogeriopessanha&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopessanha" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rogeriopessanha&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopessanha" /> </p> -->
   
 <!--   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"> -->    
 <!--   <img align="center" height="50" width="50" alt=""  src=""> -->
