@@ -1,5 +1,5 @@
 
- <h1 align="center">Hey 👋, Bem-vindo(a) ao meu repositório</h1> <br/>
+<!--  <h1 align="center">Hey 👋, Bem-vindo(a) ao meu repositório</h1> <br/>
  <h2 align="center">Desenvolvedor Front-end</h2>
 
 - 🌱 Aprendendo **ReactJS**
@@ -22,7 +22,7 @@
   <img align="center" height="50" width="50" alt="Sass"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" height="50" width="50" alt="HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="50" width="50" alt="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> -->
   
 ---
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rogeriopessanha&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopessanha" /> </p> -->
@@ -31,6 +31,16 @@
 <!--   <img align="center" height="50" width="50" alt=""  src=""> -->
                                               
 </div><br/>
+
+
+
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rogeriopessanha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=rogeriopessanha&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
