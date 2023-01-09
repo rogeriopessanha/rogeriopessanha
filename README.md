@@ -23,6 +23,7 @@
   <img align="center" height="50" width="50" alt="HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="50" width="50" alt="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   
 ---
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rogeriopessanha&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopessanha" /> </p> -->
