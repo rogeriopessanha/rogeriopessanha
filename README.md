@@ -6,40 +6,34 @@
 
 - 👨‍💻 Portfólio: [https://rogeriopessanha.github.io/portifolio/](https://rogeriopessanha.github.io/portifolio/)
 - 🔗 Linkedin: [https://www.linkedin.com/in/rogerio-pessanha/](https://www.linkedin.com/in/rogerio-pessanha/)
+  
+###
 
-<div>
-<!--   <a href="https://github.com/rogeriopessanha">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=rogeriopessanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&layout=compact&langs_count=7&theme=tokyonight"/> -->
- 
- 
-<!--  # 📊 GitHub Stats: -->
-![](https://github-readme-stats.vercel.app/api?username=rogeriopessanha&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rogeriopessanha&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriopessanha&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&username=rogeriopessanha" height="160" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&username=rogeriopessanha" height="160" alt="languages graph"  />
 </div>
 
+###
 
 ## Tecnologias que uso no momento: 
 
-<div style="display: inline_block"><br/>
-  <img align="center" height="50" width="50" alt="React"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" height="50" width="50" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="50" width="50" alt="Sass"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" height="50" width="50" alt="HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="50" width="50" alt="CSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  
----
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rogeriopessanha&label=Profile%20views&color=0e75b6&style=flat" alt="rogeriopessanha" /> </p> -->
-  
-<!--   <img align="center" height="50" width="50" alt=""  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"> -->    
-<!--   <img align="center" height="50" width="50" alt=""  src=""> -->
-                                              
-</div><br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
+</div>
+
+<!--<div align="center">
+  <img height="250" src="https://i.imgflip.com/65efzo.gif"  />
+</div>-->
+
+
 
 
 
