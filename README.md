@@ -2,10 +2,11 @@
  <h1 align="center">Hey 👋, Bem-vindo(a) ao meu repositório</h1> <br/>
  <h1 align="center">Desenvolvedor Front-end</h1>
 
-- 🌱 Aprendendo **ReactJS**
-
 - 👨‍💻 Portfólio: [https://rogeriopessanha.github.io/portifolio/](https://rogeriopessanha.github.io/portifolio/)
+
 - 🔗 Linkedin: [https://www.linkedin.com/in/rogerio-pessanha/](https://www.linkedin.com/in/rogerio-pessanha/)
+
+- 🌱 Aprendendo **ReactJS**
   
 ###
 
