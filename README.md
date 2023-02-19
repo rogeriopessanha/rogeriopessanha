@@ -10,6 +10,14 @@
   
 ###
 
+
+ 
+ <div align="center">
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rogeriopessanha&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&username=rogeriopessanha" height="160" alt="stats graph"  /> 
   
