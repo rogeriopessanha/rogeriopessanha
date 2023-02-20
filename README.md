@@ -10,8 +10,6 @@
   
 ###
 
-
- 
  <div align="center">
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rogeriopessanha&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
@@ -24,7 +22,7 @@
 
 ###
 
-## Tecnologias que uso no momento: 
+## Minhas habilidades 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="reactjs logo"  />
